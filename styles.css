@@ -61,3 +61,35 @@ header li {
     height: 200px;
 
 }
+
+.learn-about h2{
+    font-size: 24px;
+    color: #48BB78;
+}
+
+.learn-about h3{
+    font-size: 21px;
+    color: #48BB78;
+
+}
+.learn-about img{
+    height: 180px;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+.card{
+    margin-right: 30px;
+    border-color: #E2E8F0;
+    border-radius: 5px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+    width: 400px;
+    height: 460px;
+}
+.card-body{
+    margin: 10px;
+    padding-top: 10px;
+}
