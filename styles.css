@@ -162,6 +162,7 @@ article{
     margin:0 auto;
     padding-top: 30px;
     padding-bottom: 50px;
+    
 }
 .newsletter button{
     background-color: #5A67D8;
@@ -194,4 +195,13 @@ article{
     border-radius: 5px;
     border: none;
     padding-left: 20px;
+}
+
+footer{
+    background-color: #4A5568;
+    color:white;
+    margin-top: 0;
+}
+footer .container {
+  padding: 20px;
 }
