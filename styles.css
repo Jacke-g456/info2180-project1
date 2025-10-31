@@ -122,3 +122,36 @@ header li {
     text-decoration: none;
     margin-left: 50px;
 }
+
+.stories{
+    margin-top: 70px;
+}
+
+.stories h2{
+    color: #5A67D8;
+}
+.stories a{
+    color: #5A67D8;
+    text-decoration: none;
+}
+
+.stories h3{
+    font-size: 18px;
+    margin-right: 150px;
+}
+.stories img{
+    height:200px;
+    float: left;
+    margin-right: 60px;
+    border-radius: 50%;
+    width: 200px;
+}
+article{
+    margin-top: 60px;
+    margin-bottom: 70px;
+    
+}
+.article-body{
+    margin-right: 15px;
+    
+}
