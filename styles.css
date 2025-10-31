@@ -93,3 +93,32 @@ header li {
     margin: 10px;
     padding-top: 10px;
 }
+
+.testing {
+    background-color: #4A5568;
+    color: white;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 250px;
+}
+.testing-desciption{
+    float:left;
+    width: 62%;
+    padding-right: 20px;
+}
+
+
+.cta{
+    background-color: #48BB78;
+    border-radius: 5px;
+    width: 20%;
+    float:right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 60px;
+}
+.cta a{
+    color: white;
+    text-decoration: none;
+    margin-left: 50px;
+}
